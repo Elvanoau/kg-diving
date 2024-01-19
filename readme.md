@@ -1,3 +1,6 @@
+# KG-Diving
+A FDG Inspired Diving System For QBCore
+
 # Install
 - Add Items
 ```lua
